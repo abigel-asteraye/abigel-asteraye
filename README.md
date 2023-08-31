@@ -1,16 +1,20 @@
-### Hi there 👋
+# 👋 Hi there, I'm Abigel 👩‍💻
 
-<!--
-**abigel-asteraye/abigel-asteraye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Aspiring Technologist (SWE/Data Science/Photography)`**
 
-Here are some ideas to get you started:
+### 🌱 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Rising Junior majoring in Computer Science and Statistics. My journey began as a kid trying to fix bugs on my family's satellite TV. Coming into college these interests of mine in tinkering and technology only grew
+
+### 💻 Tech Enthusiast
+
+- 📚 I'm currently honing my skills in data structures, algorithms, and problem-solving.
+- 💡 Actively looking for Summer 2024 oppurtunities
+- 🌟 Hackathon Organizer: Proudly took part in organizing TechTogether Boston and HackHolyoke
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/abigel-asteraye/)
+
+
+Looking forward to connecting with fellow enthusiasts!
